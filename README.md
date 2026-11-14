@@ -82,18 +82,6 @@ A document-grounded conversational assistant for exploring Bhagavad Gita verses 
 - Served as **Content Head** of The Literary Club, leading content for 10+ college events.
 - Served as **Volleyball Captain**, leading the team to two tournament victories.
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIVAMNAVIK02&show_icons=true&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVAMNAVIK02&layout=compact&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SHIVAMNAVIK02&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 ## 🤝 Let's Connect
