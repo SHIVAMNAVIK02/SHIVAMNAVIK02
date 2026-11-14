@@ -1,5 +1,12 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shivam%20Navik&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+</div>
+
+
+<div align="center">
+
 # Hi, I'm Shivam Navik 👋
 
 ### AI & Data Science Engineer | Software Engineering | Generative AI
